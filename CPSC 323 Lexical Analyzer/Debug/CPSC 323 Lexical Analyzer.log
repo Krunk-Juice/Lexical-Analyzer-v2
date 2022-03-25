@@ -1,0 +1,6 @@
+﻿  Lexical Analyzer FSM.cpp
+C:\Users\krunk\Source\Repos\CPSC 323 Lexical Analyzer\CPSC 323 Lexical Analyzer\Lexical Analyzer.h(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\krunk\Source\Repos\CPSC 323 Lexical Analyzer\CPSC 323 Lexical Analyzer\Lexical Analyzer FSM.cpp(17,3): warning C4551: function call missing argument list
+C:\Users\krunk\Source\Repos\CPSC 323 Lexical Analyzer\CPSC 323 Lexical Analyzer\Lexical Analyzer FSM.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\krunk\Source\Repos\CPSC 323 Lexical Analyzer\CPSC 323 Lexical Analyzer\Lexical Analyzer.h(193): warning C4715: 'FSM::getTokenType': not all control paths return a value
+  CPSC 323 Lexical Analyzer.vcxproj -> C:\Users\krunk\Source\Repos\CPSC 323 Lexical Analyzer\Debug\CPSC 323 Lexical Analyzer.exe

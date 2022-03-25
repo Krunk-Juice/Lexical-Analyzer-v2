@@ -1,0 +1,24 @@
+      /* this is my test */   
+		! this is my block comment~!       
+
+   $$     function     ()  , 
+int          boolean       real  { } ; if fi else return put get  while
+==       !=        >         <       <=        =>      +  -  *  /  
+true      false         
+123.000
+000.
+.00
+1345
+x
+ab__
+av6___k           
+
+++-     #   ^
+
+
+1
+
+
+3
+
+
